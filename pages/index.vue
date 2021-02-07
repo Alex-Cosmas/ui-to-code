@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <main class="container mx-auto px-10 bg-gray-50">
+    <main>
       <div class="text-center py-10 mb-5">
         <h1 class="text-4xl">UI Designs translated into code</h1>
         Click the links to go to the full individual pages.
