@@ -1,9 +1,11 @@
 <template>
   <div class="">
     <main>
-      <div class="text-center py-10 mb-5">
-        <h1 class="text-4xl">UI Designs translated into code</h1>
-        Click the links to go to the full individual pages.
+      <div
+        class="flex items-center justify-center text-center flex-col py-40 mb-5"
+      >
+        <h1 class="text-4xl">Designs translated into code</h1>
+        <p>Click the links to go to the full individual pages.</p>
       </div>
 
       <div class="grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-8 ">

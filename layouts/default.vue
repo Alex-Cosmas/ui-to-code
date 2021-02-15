@@ -1,7 +1,9 @@
 <template>
-  <div class="container mx-auto px-10 bg-gray-50">
+  <div class="bg-gray-50">
     <Nav />
-    <Nuxt />
+    <div class="container mx-auto">
+      <Nuxt />
+    </div>
   </div>
 </template>
 
