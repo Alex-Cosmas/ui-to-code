@@ -14,6 +14,7 @@
           <ul class="flex">
             <nuxt-link to="/" class="mx-2 px-3">Design</nuxt-link>
             <nuxt-link to="/dev" class="mx-2 px-3">Dev</nuxt-link>
+            <nuxt-link to="/dev/components/">Components</nuxt-link>
             <nuxt-link to="/glossary" class="mx-2 px-3">Glossary</nuxt-link>
           </ul>
         </div>

@@ -1,9 +1,9 @@
 <template>
-<div>
+  <div>
     Components
 
     <div>
-        </div>
-        
-</div>
+      <nuxt-link to="/pages/dev/components/">Two Row Navigation</nuxt-link>
+    </div>
+  </div>
 </template>
